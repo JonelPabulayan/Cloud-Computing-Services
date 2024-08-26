@@ -1,7 +1,5 @@
 <center><h2>Cloud Computing Services</h2></center>
 
-<h4><a href="#about">Author</a> | <a href="#introduction">Introduction</a></h4>
-
 <img src="https://www.simplilearn.com/ice9/free_resources_article_thumb/What_are_the_Types_of_Cloud_Computing_and_Cloud_Services.jpg" width="1000" height="300" />
 
 <h2 id="about">Author</h2>
